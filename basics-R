@@ -1,0 +1,9 @@
+#concatenate strings
+
+paste(6,8)
+#[1] "6 8"
+paste(6,"_",8)
+#[1] "6 _ 8"
+paste0(6,"_",8)
+#[1] "6_8"
+
